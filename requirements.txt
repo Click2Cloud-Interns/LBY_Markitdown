@@ -1,0 +1,8 @@
+markitdown[all]
+python-dotenv
+tiktoken
+faiss-cpu
+fastapi
+uvicorn
+openai
+numpy
