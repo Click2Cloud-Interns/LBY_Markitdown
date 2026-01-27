@@ -1,4 +1,4 @@
-# 🧕 Ladki Behan Chatbot (RAG-based Q&A System)
+# 🧕 Ladli Behna Yojana (Markitdown VectorDB)
 
 A Retrieval-Augmented Generation (RAG) chatbot built for the **Ladki Behan / Ladli Behna Yojana**.  
 It converts government documents into Markdown, stores embeddings in a FAISS vector database, and answers user questions via a FastAPI backend using Azure OpenAI.
